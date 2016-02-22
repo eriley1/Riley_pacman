@@ -1,0 +1,11 @@
+Pacman Unit & subject pairing
+
+Subject 1 -- unit 10
+subject 3 -- unit C1
+subject 4 -- unit 16
+subject 5 -- unit 13
+subject 6 -- 
+subject 7 -- unit 17
+subject 8 -- unit 11
+subject 10 -- unit 12
+Subject 14 -- unit C2
